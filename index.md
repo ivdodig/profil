@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Lecturer, researcher and tourism professional.
 
 [Link to another page](./another-page.html).
 
